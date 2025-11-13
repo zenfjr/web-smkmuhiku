@@ -34,9 +34,9 @@
   <h3 align="center">SIM PreAlpha 2.0.21.10.02</h3>
 
   <p align="center">
-   Sistem Informasi Manajemen Sekolah
+   Sistem Informasi Manajemen Sekolah SMK Muhiku
     <br />
-    <a href="https://github.com/godgodwinter/sim-v2"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/zenfjr/web-smkmuhiku"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://sim.baemon.web.id/">View Demo</a>
@@ -74,9 +74,9 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot-dashboardlm2]](https://github.com/godgodwinter/sim-v2)
-[![Product Name Screen Shot][product-screenshot-dashboardlm3]](https://github.com/godgodwinter/sim-v2)
-<!-- [![Product Name Screen Shot][product-classdiagram1]](https://github.com/godgodwinter/sim-v2) -->
+[![Product Name Screen Shot][product-screenshot-dashboardlm2]](https://github.com/zenfjr/web-smkmuhiku)
+[![Product Name Screen Shot][product-screenshot-dashboardlm3]](https://github.com/zenfjr/web-smkmuhiku)
+<!-- [![Product Name Screen Shot][product-classdiagram1]](https://github.com/zenfjr/web-smkmuhiku) -->
 
 Sistem administrasi keuangan sekolah
 
@@ -124,7 +124,7 @@ This is an example of how to list things you need to use the software and how to
 <!-- 1. Get a free API Key at [https://example.com](https://example.com) -->
 1. Clone the repo
    ```sh
-   git clone https://github.com/godgodwinter/sim-v2.git
+   git clone https://github.com/zenfjr/web-smkmuhiku.git
    ```
 2. Install menggunakan composer
    ```sh
@@ -177,10 +177,9 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Kukuh Setya Nugraha - [@kakadlz](https://twitter.com/kakadlz) 
-Kukuh Setya Nugraha - [@kukuh.sn](https://www.instagram.com/kukuh.sn/) 
+Zehan Fajar Septian - [@kukuh.sn](https://www.instagram.com/zhnfjrs/) 
 
-Project Link: [https://github.com/godgodwinter/sim-v2](https://github.com/godgodwinter/sim-v2)
+Project Link: [https://github.com/zenfjr/web-smkmuhiku](https://github.com/zenfjr/web-smkmuhiku)
 
 
 
@@ -190,15 +189,15 @@ Project Link: [https://github.com/godgodwinter/sim-v2](https://github.com/godgod
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/godgodwinter/sim-v2.svg?style=for-the-badge
-[contributors-url]: https://github.com/godgodwinter/sim-v2/graphs/contributors
+[contributors-url]: https://github.com/zenfjr/web-smkmuhiku/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/godgodwinter/sim-v2.svg?style=for-the-badge
-[forks-url]: https://github.com/godgodwinter/sim-v2/network/members
+[forks-url]: https://github.com/zenfjr/web-smkmuhiku/network/members
 [stars-shield]: https://img.shields.io/github/stars/godgodwinter/sim-v2.svg?style=for-the-badge
-[stars-url]: https://github.com/godgodwinter/sim-v2/stargazers
+[stars-url]: https://github.com/zenfjr/web-smkmuhiku/stargazers
 [issues-shield]: https://img.shields.io/github/issues/godgodwinter/sim-v2.svg?style=for-the-badge
-[issues-url]: https://github.com/godgodwinter/sim-v2/issues
+[issues-url]: https://github.com/zenfjr/web-smkmuhiku/issues
 [license-shield]: https://img.shields.io/github/license/godgodwinter/sim-v2.svg?style=for-the-badge
-[license-url]: https://github.com/godgodwinter/sim-v2/blob/master/LICENSE.txt
+[license-url]: https://github.com/zenfjr/web-smkmuhiku/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.instagram.com/kukuh.sn/
 [product-screenshot-dashboardlm2]: images/dashboardlm2.png
