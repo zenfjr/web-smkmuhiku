@@ -75,7 +75,7 @@
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot-dashboarddalam1]](https://github.com/zenfjr/web-smkmuhiku)
-[![Product Name Screen Shot][product-screenshot-dashboardalam2]](https://github.com/zenfjr/web-smkmuhiku)
+[![Product Name Screen Shot][product-screenshot-dashboarddalam2]](https://github.com/zenfjr/web-smkmuhiku)
 <!-- [![Product Name Screen Shot][product-classdiagram1]](https://github.com/zenfjr/web-smkmuhiku) -->
 
 Sistem Informasi Manajemen SMK Muhiku
@@ -200,6 +200,6 @@ Project Link: [https://github.com/zenfjr/web-smkmuhiku](https://github.com/zenfj
 [license-url]: https://github.com/zenfjr/web-smkmuhiku/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.instagram.com/kukuh.sn/
-[product-screenshot-dasdboarddalam1]: images/dasdboarddalam1.png
-[product-screenshot-dasdboarddalam2]: images/dasdboarddalam2.png
+[product-screenshot-dashboarddalam1]: images/dashboarddalam1.png
+[product-screenshot-dashboarddalam2]: images/dashboarddalam2.png
 [product-screenshot-classdiagram1]: images/class_diagram1.png
