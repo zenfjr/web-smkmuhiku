@@ -177,7 +177,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Zehan Fajar Septian - [@kukuh.sn](https://www.instagram.com/zhnfjrs/) 
+Zehan Fajar Septian - [@zhnfjrs](https://www.instagram.com/zhnfjrs/) 
 
 Project Link: [https://github.com/zenfjr/web-smkmuhiku](https://github.com/zenfjr/web-smkmuhiku)
 
